@@ -17,7 +17,10 @@
 #### Technical Support
 
 ## Skills
-###Operating Systems: *Debian Linux, Mac OS X, Microsoft Windows*###Network Skills: *SSH, FTP, Apache, Nginx*###Programs: *Microsoft Office Suite, Adobe Photoshop/Lightroom/InDesign, Google Docs/Sheets, Wordpress Languages: HTML5, CSS3, Python, PHP, Javascript, MySQL*###Design Concepts: *Portrait Photography, Pet Photography, Typographic page design, Website design*
+###Operating Systems: *Debian Linux, Mac OS X, Microsoft Windows*
+###Network Skills: *SSH, FTP, Apache, Nginx*
+###Programs: *Microsoft Office Suite, Adobe Photoshop/Lightroom/InDesign, Google Docs/Sheets, Wordpress Languages: HTML5, CSS3, Python, PHP, Javascript, MySQL*
+###Design Concepts: *Portrait Photography, Pet Photography, Typographic page design, Website design*
 
 ## Volunteer Work
 ### Alpha Phi Omega
