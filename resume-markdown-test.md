@@ -14,7 +14,7 @@
 
 ### Lucianna & Lucianna <time datetime="11-2009">November 2009</time><time datetime="02-2011">February 2011</time>
 
-#### Forensic Photographer- Photographed client injuries for presentation in court- Worked directly with the lawyer to ensure proper display of injuries
+#### Forensic Photographer- Photographed client injuries for presentation in court- Worked directly with the lawyer to ensure proper display of injuries
 #### Technical Support- Set up and repaired office computers, network, and printers- Worked with the lawyers and employees to understand company needs- Provided general IT assistance to employees
 
 ## Skills
