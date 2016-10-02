@@ -1,8 +1,3 @@
-<style type="css">
-h1{
-	font-size: 200px; 
-}
-</style>
 # Eric Wolf
 
 [201-783-7521](tel:201-783-7521)
