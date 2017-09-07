@@ -1,21 +1,4 @@
-<style>
-h2 {
-	border-bottom: none;
-}
-h4 {
-	font-weight:normal;
-}
-date {
-	float: right;
-	clear: right;
-	font-size: 75%;
-	font-weight: normal;
-}
 
-time + time:before {
-	content: " - ";
-}
-</style>
 # Eric Wolf
 
 [201-783-7521](tel:201-783-7521)
