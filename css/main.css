@@ -1,0 +1,109 @@
+html {
+  font-family: monospace;
+  background-color: #eee;
+}
+body {
+  background-color: white;
+  display: grid;
+  margin: auto;
+  max-width: 8.5in;
+  max-height: 11in;
+  grid-template-areas: "header" "summary" "skills" "work" "education" "affiliation" "hobbies" "footer";
+  grid-gap: 2px;
+  padding: 1em;
+  border-collapse: collapse;
+}
+section {
+  border-top: 2px solid black;
+}
+/* Set grid areas */
+header {
+  grid-area: header;
+}
+#summary {
+  grid-area: summary;
+}
+#skills {
+  grid-area: skills;
+}
+#work {
+  grid-area: work;
+}
+#education {
+  grid-area: education;
+}
+#affiliation {
+  grid-area: affiliation;
+}
+#hobbies {
+  grid-area: hobbies;
+}
+footer {
+  grid-area: footer;
+}
+/* End set grid areas */
+#skills ul {
+  list-style: none;
+  text-align: center;
+  padding-left: 0;
+  columns: 3;
+  font-family: monospace;
+}
+#skills ul li {
+  background: lightblue;
+}
+header h1 {
+  text-align: center;
+  margin: 0.25em;
+}
+header ul {
+  margin: 0.25em;
+  list-style: none;
+  text-align: center;
+  padding-left: 0;
+  columns: 3;
+  font-family: monospace;
+}
+header ul li {
+  background: lightblue;
+}
+.name {
+  font-size: 1.5em;
+}
+.job:before,
+.hobby:before {
+  content: " ";
+  display: block;
+  border-top: 1px black solid;
+}
+.job:first-of-type:before,
+.hobby:first-of-type:before {
+  border-top: 0;
+}
+.jobtitle {
+  font-size: 1.25em;
+}
+.dates {
+  float: right;
+}
+footer {
+  text-align: center;
+}
+#affiliation ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0.25em 0;
+}
+#hobbies p {
+  padding: 0 1em;
+  margin-top: 0.5em;
+}
+section > h2 {
+  margin: 0.25em;
+}
+section > :not(h2) {
+  margin: auto 1em;
+}
+.description * {
+  margin-top: 0.25em;
+}
