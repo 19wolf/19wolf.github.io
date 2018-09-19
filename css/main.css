@@ -26,6 +26,7 @@ header {
 }
 #skills {
   grid-area: skills;
+  background: lightblue;
 }
 #work {
   grid-area: work;
