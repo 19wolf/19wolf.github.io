@@ -11,6 +11,7 @@ body {
   grid-template-areas: "header" "summary" "skills" "work" "education" "affiliation" "hobbies" "footer";
   grid-gap: 2px;
   padding: 1em;
+  padding-right: 2em;
   border-collapse: collapse;
 }
 section {
