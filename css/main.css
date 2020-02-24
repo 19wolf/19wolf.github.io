@@ -104,3 +104,8 @@ section > :not(h2) {
   margin-top: 0.25em;
 }
 }
+@media print{
+  .links { 
+    display:none
+  }
+}
